@@ -4,6 +4,7 @@ RENCANA KONTEN ARY
   * ES6
   * Framework Javascript
     ^ Vue.js
+    ^ React.js
 - Struktur Data Dasar
 - PHP Framework
   * Laravel
